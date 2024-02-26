@@ -1,0 +1,58 @@
+what is programming language : Programming is a set of instructions given to the computer to achieve a specific output.
+c c++
+
+scripting language : subset of programming language
+scripting language is used to develop small applications.
+js python
+
+statically typed language : 
+    int a = 520;
+
+dynamically typed language : 
+    we don't need to define the type of variable. it will be determined at runtime.
+    a = "hello"
+
+server side : c 
+client side : browser, javascript is executed on client side
+
+javascript engine : 
+
+developer of js : brendan eich
+netscape navigator : firefox : spider monkey
+google : chrome : v8(node js)
+apple : safari : webkit
+internet explorer : chakra
+
+js --> client side --> browser --> webpages --> html, css
+
+ways of writing js code : 
+
+css ---> inline css, internal css & external css
+js ---> inline js, internal js & external js
+
+use : DOM manipulation
+DOM : Document Object Model
+
+javascript provides 3 keyword for variable declaration :
+
+var : global scope 
+let : block scope
+const : block scope, final variable
+
+operators : to perform specific operation on operands we use operators
+
+unery operators
+    increment/decrement operator (++,--)
+binary operators
+    arithmetic operator
+        +,-,*, /, %
+    assignment operators
+        =, +=, -=, *=, /=, %=
+    comparision operators / relational operators
+        == , === , != , !==, > , < , >= , <=
+    logical operators
+        &&, || , !
+    bitwise operators
+        &, |, ^,~, << ,>>
+ternary operators
+    ?:
